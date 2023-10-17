@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-10 15:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: templates/checkfile.html:4
+msgid "Welcome to My second Website"
+msgstr "Willkommen so why is it same Website"
+
+#: templates/checkfile.html:5
+msgid "hello there in my second site"
+msgstr "german in my 2nd flanaljlasga"
+
+#: templates/index.html:4
+msgid "Welcome to My Website"
+msgstr "Willkommen auf meiner Website"
+
+#: templates/index.html:5
+msgid "hello there "
+msgstr "in german hello there"
+
+#: templates/index.html:6
+#, python-format
+msgid ""
+"\n"
+"Custom message with %(card_status)s text inside\n"
+msgstr ""
+
+#: translateapp/models.py:7
+msgid "Card Status"
+msgstr "in german card"
+
+msgid "This is a sample text that can be translated."
+msgstr "Dies ist ein Beispieltext, der übersetzt werden kann"
+
+msgid "Active"
+msgstr "german active"
+
+msgid "Inactive"
+msgstr "german inactive"
